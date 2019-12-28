@@ -1,4 +1,4 @@
-# qemu for running DOS in Docker Server
+# qemu for running Plan9 in Docker Server
 
 This image can be used standalone, or as a base for other images.
 
